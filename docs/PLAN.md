@@ -12,7 +12,8 @@
 |---|---|
 | Stack | **Astro 5** (statik) + Tailwind CSS 4 + MDX içerik |
 | Hosting | **Cloudflare Pages** (ücretsiz, sınırsız bandwidth, edge, kolay domain) |
-| Repo | `alisahinboun/Lovemapwebsite`, branch `claude/paper-anniversary-gift-seo-y897gd` |
+| Repo | `alisahinboun/Lovemapwebsite`, branch `claude/paper-anniversary-gift-seo-kuetsr` |
+| Marka | **byAliden** (mevcut Etsy Star Seller kimliği) — domain sadece konu domaini |
 | Dil | Sadece **İngilizce (en-US)** — hedef pazar ABD/UK/CA/AU |
 | CMS | Yok. İçerik repo'da markdown. Ekleme/düzenleme git üzerinden |
 | Dönüşüm | Etsy'ye UTM'li çıkış linkleri + e-posta listesi (ücretsiz örnek karşılığı) |
@@ -38,17 +39,34 @@ kaynak olmak.
    listicle'larda geçmek, alıntılanabilir istatistik, tablo, entity tutarlılığı,
    içerik tazeliği. Backlink'ten çok "kaç yerde adın geçiyor" önemli.
 
-### 1.3 Rekabet manzarası (araştırma bulgusu)
-Alanda güçlü oyuncular var:
-- `paper-anniversary.com` — **Paper Anniversary® by Anna V.** (tescilli marka, güçlü otorite)
-- `mrkyourmoment.com` — çok sayıda anniversary map print sayfası, iyi yapılanmış
-- `papier.com`, `uncommongoods.com`, `paperlust.co`, `theknot.com`, `brides.com` — büyük
-  yayıncı/perakendeci; "1st anniversary gift ideas" gibi head keyword'lerde hâkim
-- Etsy market sayfaları (`etsy.com/market/anniversary_map`) — Google'da sıralanıyor
+### 1.3 Rekabet manzarası (Eylül 2026'da doğrulandı)
 
-**Sonuç:** Head keyword'lerde ("1st anniversary gift ideas") kısa vadede kazanamayız.
-Strateji **long-tail + niş dikey + programatik küme** üzerinden ilerlemek, otorite
-biriktikçe yukarı tırmanmak.
+**Katman A — Büyük yayıncı/perakendeci (head keyword'lerde hâkim):**
+`theknot.com`, `brides.com`, `uncommongoods.com`, `paperlust.co`, `papier.com`.
+"1st anniversary gift ideas" gibi baş kelimelerde kısa vadede bunlarla yarışamayız.
+
+**Katman B — Niş marka siteleri (asıl rakip *ve* asıl kanıt):**
+`paperanniversaryideas.com` (`/for-him` gibi persona sayfaları), `amourprint.com`
+(`/pages/best-paper-anniversary-gift-ideas`), `unwilted.com/blogs/...`,
+`paper-anniversary.com` (**Paper Anniversary® by Anna V.** — marka riski, §1.4).
+
+**Katman C — Doğrudan ürün rakipleri (love map / where-we-met):**
+`positiveprints.com` (where-we-met-map, where-it-all-began-map),
+`mrkyourmoment.com` (anniversary-map-print, coordinate map, circle map — çok iyi
+yapılanmış koleksiyon mimarisi), `pixelsphotoart.com`, `journeyprintshop.com`.
+Ayrıca Etsy market sayfaları (`etsy.com/market/paper_anniversary_gift_for_him`)
+Google'da 1. sırada çıkıyor — yani **Etsy listing'in değil, Etsy'nin kategori sayfası
+sıralanıyor**; senin listing'in oradan trafik almıyor.
+
+**🔑 En önemli bulgu:** Bu sorguyu AI destekli aramada test ettiğimde, verilen cevap
+büyük markaları değil **küçük niş marka sitelerini** (amourprint, unwilted,
+paperanniversaryideas) kaynak gösterdi ve fiyat/malzeme detaylarını doğrudan onların
+sayfalarından alıntıladı. Yani: *doğru yapılandırılmış küçük bir site, bu nişte AI
+alıntısı alabiliyor.* Bu planın tüm dayanağı bu.
+
+**Sonuç:** Head keyword'lerde kısa vadede kazanamayız. Strateji **long-tail + niş dikey
++ programatik küme + alıntılanabilir format** üzerinden ilerlemek; Katman B'nin yerini
+almak (ulaşılabilir hedef), Katman A'ya uzun vadede tırmanmak.
 
 ### 1.4 ⚠️ KRİTİK RİSK: Marka/Trademark
 `Paper Anniversary®` ABD'de aynı kategoride (yıldönümü hediyesi) tescilli görünüyor.
@@ -58,14 +76,22 @@ ama:
   (logo, tagline, "by us") risk yaratır.
 - Etsy shop'un adı ile bu domain'in adı çakışırsa karışıklık iddiası güçlenir.
 
-**Önerim:** Domain'i tut, ama **marka kimliğini ayrı kur.**
-- Marka adı: **LoveMap** (veya senin Etsy shop adın) — logo, Organization schema,
-  e-posta, sosyal hesaplar hep bu isimle.
-- Domain sadece "konu domaini" olarak kullanılsın: site başlığı
-  *"Paper Anniversary Gift Guide by LoveMap"* değil, **"LoveMap — Paper Anniversary Gifts"**.
-- Hiçbir yerde `®` veya "Paper Anniversary" tek başına marka gibi geçmesin.
-- Yayına almadan önce USPTO TESS'te `paper anniversary` aramasını yapıp sonucu gör.
-  Gerekirse 1 saatlik bir IP avukatı danışmanlığı en ucuz sigorta.
+Ek olarak Etsy'de **`PaperAnniversaryLove`** adlı bir shop da var — yani bu isim etrafında
+kalabalık artıyor, kendi ismini domain'e bağlamak stratejik olarak da zayıf.
+
+**Önerim:** Domain'i tut, ama **marka kimliğini `byAliden` üzerine kur.**
+Bu, hukuki riski çözmenin yanında bedava bir avantaj daha veriyor: byAliden zaten Etsy'de
+**Star Seller** — yani satış geçmişi, yorumlar ve güven sinyali hazır. Sıfırdan marka
+kurmaktan iyi.
+- Logo, `Organization` schema `name`, e-posta, sosyal hesaplar, yazar kutusu → hepsi **byAliden**
+- Site başlığı: **"byAliden — Paper Anniversary Gifts"** (❌ "Paper Anniversary Gift™ by us")
+- Hiçbir yerde `®` kullanma, "Paper Anniversary" tek başına logo/marka gibi geçmesin —
+  sadece **tanımlayıcı** (descriptive) kullanım: "paper anniversary gifts" bir konu, marka değil
+- Footer'da net bir ayrışma cümlesi: *"byAliden is not affiliated with Paper Anniversary® by Anna V."*
+- Yayına almadan önce USPTO TESS'te (`tmsearch.uspto.gov`) `paper anniversary` araması yap.
+  Gerekirse 1 saatlik IP avukatı danışmanlığı en ucuz sigorta.
+- Star Seller rozetini ve gerçek yorum sayısını sitede güven öğesi olarak kullan (uydurma yok,
+  gerçek rakam + Etsy'ye link).
 
 ---
 
@@ -86,6 +112,17 @@ Yüksek niyet, düşük hacim, düşük rekabet. **En kârlı taraf.**
 - long distance relationship map gift
 - where we met map print
 - anniversary gift digital download
+
+**İkinci ürün ekseni** (aramada byAliden'in `Custom Animated Love Letter / Digital
+Anniversary E-card` listing'ini de gördüm — bu ayrı bir keyword kümesi ve ayrı bir
+landing page hak ediyor):
+- digital anniversary card / animated love letter
+- long distance gift for boyfriend / girlfriend
+- e-card anniversary gift (instant, no shipping)
+- last minute gift for boyfriend (digital)
+
+Bu iki ürün birbirini besler: aynı ziyaretçiye bundle ($8 kart + $18 harita = $22 paket)
+satabilirsin ve site tek ürüne bağımlı kalmaz.
 
 ### 2.2 Küme 2 — Bilgi amaçlı (trafik + AI alıntı motoru)
 - what is the paper anniversary / why is paper the 1st anniversary gift
@@ -141,6 +178,8 @@ Bu tek başına, 20 tane listicle'dan daha fazla AI alıntısı getirir.
   /love-map/for-husband/            Persona varyantı
   /love-map/for-wife/
   /love-map/long-distance/
+/love-letter/                       2. ürün: animasyonlu dijital love letter / e-card
+  /love-letter/long-distance/
 /gifts/                             Hub: tüm hediye rehberleri
   /gifts/paper-anniversary/         Küme 1+2 pillar sayfası (en önemli sayfa)
   /gifts/paper-anniversary-for-him/
@@ -388,21 +427,40 @@ Yeni domain için "sandbox" etkisi gerçek. İlk 3 ay sabır gerektirir.
 
 ## 10. Senden İhtiyacım Olanlar
 
-Etsy'ye erişim bu ortamda bloklu, o yüzden şunları bana yazman/yüklemen lazım:
+**Etsy bu ortamda ağ seviyesinde bloklu** (`www.etsy.com` ve `byaliden.etsy.com` ikisi de
+egress proxy tarafından reddediliyor). Listing'i kendim okuyamıyorum, o yüzden aşağıdakileri
+bana yazman/yüklemen gerekiyor. **Yıldızlı olanlar olmadan başlayamam**, diğerleri sonra
+gelebilir.
 
-1. **Ürün detayları:** tam listing başlığı, fiyat, dosya formatları (PDF/PNG/JPG?),
-   boyutlar, teslim şekli (anında indirme mi, kişiselleştirme sonrası mı?),
-   kişiselleştirme için müşteriden ne istiyorsun
-2. **Etsy shop adı** ve shop URL'si
-3. **Mockup/ürün görselleri** — repo'ya koyabileceğim yüksek çözünürlüklü dosyalar
-4. **Mevcut yorumlar** — sayı, ortalama puan, 3-4 alıntılanabilir yorum metni
-5. **Marka adı kararı** — LoveMap mi, Etsy shop adın mı, başka bir şey mi?
-6. **Domain durumu:** PaperAnniversaryGift.com alındı mı? DNS nerede?
-7. **Yazar kimliği (E-E-A-T):** sitede gerçek isim + foto + kısa hikâye kullanabilir
-   miyiz? ("Ben ve eşim ilk yıldönümümüzde..." tipi gerçek hikâye dönüşümü ciddi artırır)
-8. **Bütçe:** anket ($150-300), AI takip aracı ($50-100/ay), Pinterest zamanlama aracı
-   — hangilerine açıksın? Hepsi opsiyonel, sıfır bütçeyle de başlanır
-9. **Başka ürünler var mı?** (varyant/bundle stratejisi için)
+### Bloklayıcı (bunlar olmadan sayfa yazamam)
+1. ⭐ **Ürün detayları:** tam listing başlığı, fiyat (USD), dosya formatları (PDF/PNG/JPG?),
+   çözünürlük/DPI, hangi boyutlarda basılabiliyor (A2? 18x24? 24x36?), teslim şekli
+   (anında indirme mi, sen kişiselleştirip mi gönderiyorsun?), teslim süresi
+2. ⭐ **Kişiselleştirme akışı:** müşteriden tam olarak ne istiyorsun (isimler, tarih,
+   şehir/koordinat, hikâye metni?) — bunu sitede adım adım anlatacağız
+3. ⭐ **Mockup/ürün görselleri:** repo'ya koyabileceğim yüksek çözünürlüklü dosyalar
+   (en az 6-8 tane; hem ürün hem "duvarda çerçeveli" mockup)
+4. ⭐ **Domain durumu:** PaperAnniversaryGift.com alındı mı? DNS nerede? (Cloudflare'a
+   taşımamız gerekecek)
+
+### Önemli ama sonra gelebilir
+5. **Yorumlar:** toplam sayı, ortalama puan, 3-4 alıntılanabilir yorum metni
+   (Star Seller rozetini de kullanacağız)
+6. **Diğer listing'lerin:** aramada `Custom Animated Love Letter / Digital Anniversary
+   E-card` listing'ini gördüm. Tüm aktif ürünlerin listesi lazım — her biri ayrı landing
+   page ve bundle stratejisi demek
+7. **Yazar kimliği (E-E-A-T):** sitede gerçek isim + foto + kısa hikâye kullanabilir miyiz?
+   ("Bu haritayı ilk olarak kendi yıldönümümüz için tasarladım..." tipi gerçek hikâye
+   dönüşümü ciddi artırıyor ve Google'ın E-E-A-T sinyali için önemli)
+8. **Bütçe:** anket ($150-300), AI görünürlük takip aracı ($50-100/ay), Pinterest
+   zamanlayıcı — hangilerine açıksın? **Hepsi opsiyonel, sıfır bütçeyle de başlanır**
+9. **Zaman:** haftada kaç saat ayırabilirsin? (outreach ve Pinterest senin elinle olmalı,
+   kod ve içerik bende)
+
+### Karar vermen gerekenler
+10. **Marka adı:** önerim **byAliden** (§1.4'teki gerekçe). Onaylıyor musun?
+11. **Kendi satış kanalı:** uzun vadede Gumroad/Lemon Squeezy ile Etsy komisyonunu kesmek
+    istiyor musun, yoksa Etsy'de mi kalalım?
 
 ---
 
