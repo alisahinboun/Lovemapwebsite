@@ -13,12 +13,65 @@
 | Stack | **Astro 5** (statik) + Tailwind CSS 4 + MDX içerik |
 | Hosting | **Cloudflare Pages** (ücretsiz, sınırsız bandwidth, edge, kolay domain) |
 | Repo | `alisahinboun/Lovemapwebsite`, branch `claude/paper-anniversary-gift-seo-kuetsr` |
-| Marka | **byAliden** (mevcut Etsy Star Seller kimliği) — domain sadece konu domaini |
+| Marka | **byAliden** (Ali, İstanbul — Etsy Star Seller, 5 yıl, 530 satış) |
+| Ürün | Made-to-order dijital illüstrasyon, **$47.17** (liste $62.90) — impulse değil, **premium** |
+| Dönüşüm modeli | Yüksek AOV + düşük hacim. Günde 3 satış = aylık ~$4.200 ciro |
 | Dil | Sadece **İngilizce (en-US)** — hedef pazar ABD/UK/CA/AU |
 | CMS | Yok. İçerik repo'da markdown. Ekleme/düzenleme git üzerinden |
 | Dönüşüm | Etsy'ye UTM'li çıkış linkleri + e-posta listesi (ücretsiz örnek karşılığı) |
 | Analitik | GSC + Bing Webmaster + GA4 (veya Cloudflare Web Analytics) + UTM |
 | İlk yayın | ~14 sayfa ile 2 hafta, sonra haftada 2-3 sayfa |
+
+---
+
+## 0.5 Ürün Gerçekleri (listing verisinden, 8 Eylül 2026)
+
+Bunlar tahmin değil, listing'in kendisinden. Sitedeki her sayfa bu gerçeklere göre yazılacak.
+
+| Alan | Değer |
+|---|---|
+| Listing başlığı | *Paper Anniversary Gift for Husband & Wife: Hello Will You I Do Timeline, Personalized Map* |
+| Fiyat | **$47.17** (indirimli) / $62.90 liste — 25% off, 3 Ekim'e kadar |
+| Rozetler | **Bestseller** · **Star Seller** · "2 people bought this in the last 24 hours" |
+| Sosyal kanıt | **4.9 ★ / 119 yorum** bu listing'de, %97 tavsiye · **2.637 favori** · shop 4.9 (145) / 530 satış |
+| Teslim | **Made-to-order digital download** — anında indirme *değil*. Yorumlara göre ilk taslak **24 saat**, teslim **1-2 iş günü** |
+| Format | 300 DPI PDF · 50×70 cm · 16x20 / 18x24 / A3 / A2 ölçeklenebilir |
+| Stil | Minimalist **"Japandi"** esintili, siyah-beyaz line art |
+| Kişiselleştirme | İsimler + **5-8 milestone** (yer/olay + tarih) |
+| Satıcı | Ali · İstanbul · Etsy'de 5 yıl · birkaç saat içinde yanıt |
+| Lisans | Kişisel kullanım, ticari satış yok, çizim başladıktan sonra iade yok |
+
+### Diğer listing'ler (fiyat merdiveni zaten var!)
+| Ürün | Fiyat | Rolü |
+|---|---|---|
+| Custom Travel Map Print — Mountain Wall Art | **$15.00** | Giriş seviyesi / upsell yemi |
+| Personalized **Website** — Hello Will You I Do | **$30.90** | ⭐ **Sitenin gizli kozu** — aşağıda |
+| Love Map (bu ürün) | **$47.17** | Ana ürün |
+| Love Map varyantı | **$64.90** | Premium basamak |
+
+### ⚠️ Bu veriler planı üç yerde değiştiriyor
+
+**1. Bu bir "printable" ürünü değil, bir hizmet.** $47'lık made-to-order özel illüstrasyon,
+$8'lık instant download'dan tamamen farklı bir satın alma. Ziyaretçi tıklamadan önce
+*"bu adam benim hikâyemi gerçekten çizecek mi?"* sorusunu yanıtlamak zorundayız. Yani site
+bir katalog değil, bir **portfolyo + süreç anlatımı** olmalı: gerçek müşteri sonuçları,
+öncesi/sonrası, "24 saatte ilk taslak" vaadi, revizyon politikası.
+→ `last minute` ve `instant download` keyword'lerini **birincil vaat olarak kullanmıyoruz**;
+   dürüst çerçeve: *"Delivered in 24-48 hours — no shipping, no waiting for the post."*
+
+**2. Yüksek AOV oyunu tersine çeviriyor.** $47 ürün + %3-5 dönüşümle günde
+**30-50 ziyaretçi** ayda ~$2.000 ciro demek. Yani "günde 1.500 ziyaretçi" hedefine gerek yok;
+**doğru 50 ziyaretçi** yeter. Bu, stratejiyi head keyword yarışından tamamen uzaklaştırıp
+yüksek niyetli long-tail'e kilitler. İyi haber.
+
+**3. `Personalized Website` ürünü ($30.90) bu projenin en büyük fırsatı.**
+Bir *web sitesi* satıyorsun ve bir *web sitesi* kuruyoruz. Yani:
+- Sitede **canlı, gezilebilir bir demo** koyabiliriz (`/demo/hello-will-you-i-do/`) —
+  örnek bir çiftin timeline'ı, gerçekten çalışan bir sayfa
+- Bu demo hem dönüşüm aracı hem **link/alıntı mıknatısı**: AI'lar ve blog'lar
+  "çalışan örneği olan" sayfaları alıntılamayı sever
+- Ayrıca `wedding website`, `digital love story page`, `anniversary website for husband`
+  gibi tamamen ayrı ve daha az rekabetli bir keyword evreni açar
 
 ---
 
@@ -240,6 +293,62 @@ Her içerik sayfası şu iskeletle yazılacak — bu iskelet AI'ın içeriği "�
 
 ---
 
+## 4.5 Görsel Kimlik — üründen türetilmiş
+
+Siteyi sıfırdan tasarlamıyoruz: **ürünün kendisi zaten güçlü bir görsel dil taşıyor.**
+Gönderdiğin mockup'lardan çıkardığım sistem:
+
+| Öğe | Üründeki hali | Sitede karşılığı |
+|---|---|---|
+| Zemin | Krem/fildişi kâğıt (~`#F5F2EA`) | Site zemini aynı krem — ürün ile site aynı dünyada olsun |
+| Çizgi | Koyu antrasit-sepya mürekkep (~`#2B2A26`) | Metin rengi, çizgiler, ikonlar |
+| Tipografi | El yazısı büyük harf, geniş harf aralığı ("OUR LOVE MAP") | Başlıkta benzer karakterde display font; gövde temiz sans |
+| Motif | **Kıvrılan yol** milestone'ları bağlıyor | "Nasıl çalışır" ve yol haritası bölümlerinde aynı kıvrımlı yol |
+| İkon dili | Dağ, çadır, van, yüzük, pati, ev, uçak, "TO BE CONTINUED" tabelası | Site ikonları aynı el çizimi setinden — ürünün ikon sayfası hazır |
+| Aksan rengi | Yok, tamamen siyah-beyaz | Sitede tek sıcak aksan (mürekkep kırmızısı) sadece CTA'da |
+
+**Neden önemli:** Ziyaretçi Google'dan gelip siteyi gördükten sonra Etsy'ye tıkladığında
+aynı estetikle karşılaşmalı. Kopukluk = güven kaybı = dönüşüm kaybı.
+
+### Gerçek müşteri işi = en güçlü satış kanıtı
+
+Yüklediğin ikinci fotoğraf (*"7 Incredible Years, 1 Year Married — Sam & Paul"*) tek başına
+üç şeyi ispatlıyor ve üçü de sitede öne çıkmalı:
+
+1. **Başlık bile kişiselleştirilebiliyor** — "Our Love Map" zorunlu değil. Bu listing'de net
+   yazmıyor; sitede yazacağız.
+2. **Çiftin kendi portresi çizilebiliyor** — Tower Bridge, gelin-damat, köpek, Disney, uçak.
+   Bu, 3 yıldızlı yorumdaki *"cookie cutter"* iddiasının doğrudan çürütücüsü.
+3. **Eşleşen tebrik kartı** da mevcut → doğal bir bundle ürünü.
+
+> Aksiyon: `/gallery/` sayfası bu tip **gerçek teslimatlarla** dolacak, stüdyo
+> mockup'larıyla değil. Her işin altına: kaç milestone, hangi özel istekler karşılandı.
+
+### İki ayrı hikâye tipi var — bu, iki ayrı sayfa demek
+Gönderdiğin mağaza görselleri iki farklı dünyayı gösteriyor ve bu tesadüf değil, **segment**:
+
+| Stil | Örnek | İçerik | Hedef kitle |
+|---|---|---|---|
+| **Doğa / macera** | Alex & Jordan | Boulder, van life, Mount Rainier, Lake Tahoe, kabin, husky | Outdoor çiftler, "van life", hiking, dağ düğünü |
+| **Şehir / seyahat** | Rachel & Ross | NYC kafe, Brooklyn Bridge, Rockefeller, NY Public Library, Eiffel, Louvre, Hamptons | Şehirli çiftler, seyahat severler, uluslararası ilişkiler |
+
+Her ikisi de aynı ürün ama **arama niyeti farklı**. Bu yüzden:
+- `/love-map/adventure-couples/` → "hiking couple gift", "van life anniversary gift",
+  "mountain wedding anniversary print"
+- `/love-map/city-story/` → "new york love story print", "travel couple anniversary gift",
+  "long distance international couple gift"
+
+Ayrıca Rachel & Ross örneğindeki *"Emma born, May 2025"* satırı, listing'de hiç
+vurgulanmayan bir kapıyı açıyor: **bebek/aile milestone'ları**. Yeni keyword kümesi —
+`first anniversary gift for new parents`, `our family story print`, `new baby milestone map`.
+Hediye alan kişi çoğu zaman "bizim hikâyemizde bebek de var" diye arıyor.
+
+> Not: Tüm mockup'lar aynı boho/İskandinav iç mekân dünyasında (krem duvar, meşe çerçeve,
+> keten kanepe, jüt halı). Site de bu dünyada durmalı — mockup'ları kesip farklı bir
+> tasarım diline yapıştırmak ürünü ucuzlatır.
+
+---
+
 ## 5. Teknik SEO / GEO Uygulaması
 
 ### 5.1 Statik ve hızlı
@@ -261,8 +370,9 @@ Her içerik sayfası şu iskeletle yazılacak — bu iskelet AI'ın içeriği "�
 | Her sayfa | `BreadcrumbList` |
 | About | `Person` (author entity) |
 
-> ⚠️ `AggregateRating`'i uydurma. Google manual action verir. Etsy yorumlarını
-> gerçekten sitede gösteriyorsan (alıntı + link ile) kullan.
+> ✅ `AggregateRating` bizde **gerçek**: bu listing 4.9 / 119 yorum, shop 4.9 / 145.
+> Yorumları sitede gerçekten göster (metin + tarih + Etsy'ye link), sonra schema'ya yaz.
+> Uydurma rakam Google'dan manuel ceza getirir — gerek de yok, gerçeği zaten güçlü.
 
 ### 5.3 Crawler erişimi — GEO için kritik
 `robots.txt` içinde AI crawler'larını **açıkça izinle**:
@@ -329,6 +439,36 @@ Sıralı görev listesi:
 ---
 
 ## 7. Dönüşüm Tasarımı
+
+### 7.0 İtiraz haritası — gerçek yorumlardan çıkarıldı
+
+119 yorumu okudum. Sitenin dönüşüm metni **tahminle değil, bu yorumlarla** yazılacak.
+Olumsuz iki yorum burada altın değerinde: satın almayan kişinin kafasındaki soruyu
+birebir söylüyorlar.
+
+| İtiraz (gerçek yorumdan) | Sitede nasıl karşılanacak |
+|---|---|
+| *"Aldığım iş listing'deki görselden belirgin farklı, kişiselleştirilmiş hali daha kötü görünüyordu"* (1★) | **En kritik itiraz.** Galeri idealize mockup'larla değil, **gerçek müşteri teslimatlarıyla** dolu olsun. `/gallery/` sayfası: 12-20 gerçek iş, her birinin altında kaç milestone içerdiği. "Listing görseli = örnek, senin işin sana özel çizilir" cümlesi ürün sayfasında açıkça yazsın |
+| *"AI is used to make the design"* (3★) | Süreci **dürüstçe** anlat. Hangi adım el çizimi, hangi adım dijital araç? `/how-it-works/` sayfası adım adım göstersin. Gizlemek en kötü seçenek — bu yorum zaten halka açık ve AI bunu okuyor |
+| *"Cookie cutter design, istediğim sahneyi (ahır) yaptıramadım, örnek fotoğraf gönderemedim"* (3★) | **Kapsam sayfası:** neyin mümkün olduğu (ikon kütüphanesi: yüzük, pasta, bebek arabası, pati, uçak, ev…) ve neyin olmadığı net listelensin. Beklenti yönetimi = iade ve kötü yorum düşer |
+| *"Revizyon sayısı sınırsız değil"* (3★) | Revizyon politikasını sayıyla yaz: *"2 rounds of revisions included."* Belirsizlik hayal kırıklığı üretiyor |
+| *"Telefondan kaydedemedim, masaüstü gerekti"* (3★) | `/guides/how-to-download-and-print/` — telefondan indirme dahil, ekran görüntülü rehber. Hem destek yükünü düşürür hem uzun kuyruk trafiği getirir |
+| *"İletişim o kadar hızlıydı ki sorulara cevap veremedim"* (3★) | Sipariş öncesi **hazırlık formu**: müşteri siteye gelip milestone'larını rahatça yazsın, Etsy'ye hazır gelsin. Bu aynı zamanda e-posta yakalama noktası |
+
+**Olumlu tarafta sürekli tekrar eden 5 tema** — bunlar sitenin ana satış argümanları olmalı:
+1. **Hız:** *"proof back to me within hours"*, *"sketch within 24 hours"*, *"done within 2 business days"*
+2. **Esneklik:** *"made all the adjustments I wanted"*, *"added my dogs and features of my husband and I"*
+3. **Kişisel ilgi:** *"asked for a picture to get our likeness just right"* — Ali'nin kendisi satış argümanı
+4. **Değer:** *"really a steal for a fun, creative anniversary gift"*
+5. **Duygusal etki:** *"can't wait for him to open it on our 1 year anniversary"*
+
+### 7.0.1 Yorumlardan çıkan yeni kullanım senaryoları = yeni sayfalar
+Yorumlar, listing'in hedeflemediği kullanımları ortaya çıkarıyor. Her biri ayrı landing page:
+- *"so cool to have at our wedding for guests to look at"* → **düğün sergisi / misafir masası**
+- *"shower decorations"* → **bridal shower dekorasyonu**
+- *"unique engagement announcement"* → **nişan duyurusu**
+- *"my husband is a graphic designer... will be impressed"* → **zor beğenen kişiye hediye**
+
 
 ### 7.1 Etsy'ye yönlendirme
 - Her CTA'da UTM: `?utm_source=pag&utm_medium=web&utm_campaign=<sayfa-slug>`
@@ -407,7 +547,7 @@ Sıralı görev listesi:
 |---|---|
 | 0-4 hafta | Indexleme, günlük 0-20 ziyaret. Hiç satış olmayabilir — normal |
 | 2-3 ay | Long-tail sıralamalar, günlük 50-150 ziyaret, ilk AI alıntıları |
-| 4-6 ay | Günlük 300-800 ziyaret, düzenli Etsy tıklamaları, orta rekabetli keyword'lerde ilk sayfa |
+| 4-6 ay | Günlük 300-800 ziyaret. **$47 AOV ile günde 30-50 nitelikli ziyaretçi bile aylık ~$2.000 ciro demek** |
 | 9-12 ay | Head keyword'lerde ilk sayfa mücadelesi, günlük 1500+ potansiyeli |
 
 Yeni domain için "sandbox" etkisi gerçek. İlk 3 ay sabır gerektirir.
@@ -432,16 +572,25 @@ egress proxy tarafından reddediliyor). Listing'i kendim okuyamıyorum, o yüzde
 bana yazman/yüklemen gerekiyor. **Yıldızlı olanlar olmadan başlayamam**, diğerleri sonra
 gelebilir.
 
-### Bloklayıcı (bunlar olmadan sayfa yazamam)
-1. ⭐ **Ürün detayları:** tam listing başlığı, fiyat (USD), dosya formatları (PDF/PNG/JPG?),
-   çözünürlük/DPI, hangi boyutlarda basılabiliyor (A2? 18x24? 24x36?), teslim şekli
-   (anında indirme mi, sen kişiselleştirip mi gönderiyorsun?), teslim süresi
-2. ⭐ **Kişiselleştirme akışı:** müşteriden tam olarak ne istiyorsun (isimler, tarih,
-   şehir/koordinat, hikâye metni?) — bunu sitede adım adım anlatacağız
-3. ⭐ **Mockup/ürün görselleri:** repo'ya koyabileceğim yüksek çözünürlüklü dosyalar
-   (en az 6-8 tane; hem ürün hem "duvarda çerçeveli" mockup)
-4. ⭐ **Domain durumu:** PaperAnniversaryGift.com alındı mı? DNS nerede? (Cloudflare'a
-   taşımamız gerekecek)
+### Artık elimde olanlar
+Listing verisini, 119 yorumu ve ürün görsellerini aldım. Fiyat, format, teslim süresi,
+kişiselleştirme akışı, stil, sosyal kanıt ve fiyat merdiveni **çözüldü** (bkz. §0.5).
+Bu maddeler artık bloklayıcı değil.
+
+### Bloklayıcı — hâlâ sende
+1. ⭐ **Domain:** PaperAnniversaryGift.com alındı mı? DNS nerede? Cloudflare'a taşımamız
+   gerekiyor. Bu olmadan hiçbir şey yayına giremez.
+2. ⭐ **Görsel paketi.** Yükleyebileceğini söyledin — öncelik sırasıyla:
+   - **6-10 gerçek müşteri işi** (Sam & Paul gibi). `/gallery/` sayfasının tamamı buna
+     dayanıyor. İsim/tarih hassassa kısmen bulanıklaştırırız, ama gerçek iş olsun
+   - Ana mockup'ın tam çözünürlüklü hali (Alex & Jordan) — hero görseli
+   - **İkon seti** görseli — "neler mümkün" bölümü için
+   - "Nasıl sipariş verilir" 3 adım görseli
+   - Yakın çekim doku/detay fotoğrafı — baskı kalitesi kanıtı
+   - Varsa **eşleşen tebrik kartı** görselleri — bundle sayfası için
+3. ⭐ **Personalized Website ürünü ($30.90):** müşteri tam olarak ne alıyor? Kendi alt alan
+   adı mı, dosya mı? Ne kadar süre yayında kalıyor? Canlı demo kurmak istiyorum (§0.5)
+
 
 ### Önemli ama sonra gelebilir
 5. **Yorumlar:** toplam sayı, ortalama puan, 3-4 alıntılanabilir yorum metni
