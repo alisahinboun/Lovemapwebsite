@@ -450,7 +450,7 @@ birebir söylüyorlar.
 |---|---|
 | *"Aldığım iş listing'deki görselden belirgin farklı, kişiselleştirilmiş hali daha kötü görünüyordu"* (1★) | **En kritik itiraz.** Galeri idealize mockup'larla değil, **gerçek müşteri teslimatlarıyla** dolu olsun. `/gallery/` sayfası: 12-20 gerçek iş, her birinin altında kaç milestone içerdiği. "Listing görseli = örnek, senin işin sana özel çizilir" cümlesi ürün sayfasında açıkça yazsın |
 | *"AI is used to make the design"* (3★) | Süreci **dürüstçe** anlat. Hangi adım el çizimi, hangi adım dijital araç? `/how-it-works/` sayfası adım adım göstersin. Gizlemek en kötü seçenek — bu yorum zaten halka açık ve AI bunu okuyor |
-| *"Cookie cutter design, istediğim sahneyi (ahır) yaptıramadım, örnek fotoğraf gönderemedim"* (3★) | **Kapsam sayfası:** neyin mümkün olduğu (ikon kütüphanesi: yüzük, pasta, bebek arabası, pati, uçak, ev…) ve neyin olmadığı net listelensin. Beklenti yönetimi = iade ve kötü yorum düşer |
+| *"Cookie cutter design, istediğim sahneyi (ahır) yaptıramadım, örnek fotoğraf gönderemedim"* (3★) | **Bu iddia diğer yorumlarla çürüyor** — *"able to draw the cabin and house to match how it looks in real life"*, *"Artist was able to match the look of my current house"*, *"adding my dogs and features of my husband and I"*. Demek ki referans fotoğraftan gerçek bina çizilebiliyor; sorun **sürecin nasıl anlatıldığı**. Çözüm: `/how-it-works/` sayfasında "fotoğraf gönderebilirsin" adımı açıkça olsun + kapsam listesi (neyin mümkün olduğu, neyin olmadığı) net yazılsın |
 | *"Revizyon sayısı sınırsız değil"* (3★) | Revizyon politikasını sayıyla yaz: *"2 rounds of revisions included."* Belirsizlik hayal kırıklığı üretiyor |
 | *"Telefondan kaydedemedim, masaüstü gerekti"* (3★) | `/guides/how-to-download-and-print/` — telefondan indirme dahil, ekran görüntülü rehber. Hem destek yükünü düşürür hem uzun kuyruk trafiği getirir |
 | *"İletişim o kadar hızlıydı ki sorulara cevap veremedim"* (3★) | Sipariş öncesi **hazırlık formu**: müşteri siteye gelip milestone'larını rahatça yazsın, Etsy'ye hazır gelsin. Bu aynı zamanda e-posta yakalama noktası |
@@ -462,12 +462,61 @@ birebir söylüyorlar.
 4. **Değer:** *"really a steal for a fun, creative anniversary gift"*
 5. **Duygusal etki:** *"can't wait for him to open it on our 1 year anniversary"*
 
-### 7.0.1 Yorumlardan çıkan yeni kullanım senaryoları = yeni sayfalar
-Yorumlar, listing'in hedeflemediği kullanımları ortaya çıkarıyor. Her biri ayrı landing page:
-- *"so cool to have at our wedding for guests to look at"* → **düğün sergisi / misafir masası**
-- *"shower decorations"* → **bridal shower dekorasyonu**
-- *"unique engagement announcement"* → **nişan duyurusu**
-- *"my husband is a graphic designer... will be impressed"* → **zor beğenen kişiye hediye**
+### 7.0.1 Doğrulanmış vaatler — 150+ yorumdan çıkarıldı
+
+Bunlar pazarlama cümlesi değil, **müşterilerin kendi yazdığı, kanıtlanabilir** iddialar.
+Sitede birebir bu vaatleri veriyoruz; her birinin altında kaynak yorumu gösteriyoruz.
+
+| Vaat | Kanıt |
+|---|---|
+| **İlk taslak ~24 saat, teslim 2-3 gün** | *"within 2 business days, even after receiving some feedback"* · *"turned this around within 3 days"* · *"purchase on Thursday, by Sunday I already had the downloadable file"* |
+| **Acele siparişe yetişilir** | *"Even rushed my order so I could give it in time as a gift!"* |
+| **Gerçek binanı fotoğraftan çizeriz** | *"able to draw the cabin and house to match how it looks in real life"* · *"Artist was able to match the look of my current house"* |
+| **Evcil hayvan ve çift portresi eklenir** | *"customize by adding my dogs and features of my husband and I"* |
+| **Finalden önce sana danışılır** | *"The seller checked in with me before finalizing the product"* · *"helped guide the process from the beginning"* |
+| **Baskı ve çerçeveleme rehberi dosyayla birlikte gelir** | *"she sends instructions with recommendations for printing and framing"* |
+
+> 📌 **Bedava içerik fırsatı:** Baskı/çerçeveleme rehberi **zaten var**, sadece müşteriye
+> özel gönderiliyor. Onu `/guides/how-to-print-and-frame/` olarak yayınla — sıfır yeni
+> emek, uzun kuyruk trafiği + AI alıntısı + destek yükünde düşüş. Bunu bana gönder,
+> sayfaya çeviririm.
+
+### 7.0.2 Fark edilmemiş en büyük satış argümanı: **tek dosya, çok kullanım**
+
+Kristen'in yorumu tek başına bir landing page değerinde:
+
+> *"I printed a large copy as decor, small copies for bookmarks and posted it digitally
+> on social media."*
+
+Yani $47'lık dosya bir poster değil, **bir varlık**. Ne listing'de ne rakiplerde bu
+anlatılıyor. Sitede net bir bölüm olacak — *"One file. Print it big, print it small,
+share it online."*
+- Büyük baskı → duvar dekoru (A2 / 24x36)
+- Küçük baskılar → **yer imi**, tebrik kartı içi, davetiye eki, misafir masası
+- Dijital → sosyal medya paylaşımı, telefon duvar kâğıdı, düğün ekranı
+
+Bu, algılanan değeri doğrudan yükseltir ve fiyat itirazını zayıflatır.
+
+### 7.0.3 Yorumlardan çıkan yeni kullanım senaryoları = yeni sayfalar
+
+Yorumlar, listing'in hedeflemediği alıcıları ortaya çıkarıyor. Her biri ayrı landing page:
+
+| Senaryo | Kaynak yorum | Sayfa |
+|---|---|---|
+| Anne-babaya hediye | *"made a lovely gift for my parents"* | `/love-map/for-parents/` |
+| Arkadaşa/aileye düğün hediyesi | *"such a great wedding gift idea for friends/family"* | `/love-map/wedding-gift/` |
+| Düğünde misafir masası | *"so cool to have at our wedding for guests to look at"* | `/love-map/wedding-display/` |
+| Bridal shower dekoru | *"shower decorations"* | rehber sayfası içinde |
+| Nişan duyurusu | *"unique engagement announcement"* | `/love-map/engagement/` |
+| Zor beğenene hediye | *"my husband is a graphic designer... will be impressed"* | rehber sayfası içinde |
+
+### 7.0.4 Gözlem: uluslararası talep var, ama şimdilik İngilizce kalıyoruz
+
+Yorumcular arasında İspanyolca yazan (*"Charming manner, a great professional"* — orijinali
+İspanyolca), Yunan, Vietnam ve Hollanda kökenli isimler var. Talep tek dilli değil.
+**Karar değişmiyor** — Faz 1-3 sadece İngilizce, çünkü tek dilde derinleşmek iki dilde
+sığ kalmaktan iyidir. Ama Faz 4'te İspanyolca `/es/` kümesi masada tutulacak; o zamana
+kadar hangi dillerden trafik geldiğini GSC'den ölçeriz.
 
 
 ### 7.1 Etsy'ye yönlendirme
